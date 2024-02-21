@@ -99,6 +99,6 @@ pada hasil tersebut terjadi perubahan di karenakan telah melakukan modifikasi pa
 
   - Next.js Homepage ini menonjolkan fitur-fitur utama framework seperti server-side rendering, static site generation, dan routing dande ngan basis pengguna yang besar, dokumentasi yang luas, dan dukungan komunitas yang kuat menjadi solusi yang dapat diandalkan untuk berbagai kasus penggunaan, cocok untuk proyek-proyek dengan skala besar dan kompleks.
   - Remix Framework kurang lebih seperti next.js proses pengistalannya dan juga saat menjalankanya.remis memiliki tampilan yang cukup sederhana atau masih tahap pengembangan.
-  - gatsby tampilannya cukup menarik kayak next.js gatsby ini lebih membuat situs statis yang cukup cepat dan ringan. dan perbedaannya gatsby ini tidak bisa menggunakan dev tapi harusnya menggunakan npm run develop 
+  - gatsby tampilannya cukup menarik kayak next.js gatsby ini lebih membuat situs statis yang cukup cepat dan ringan. dan perbedaannya gatsby ini tidak bisa menggunakan dev tapi harusnya menggunakan npm run develop.
   
 
