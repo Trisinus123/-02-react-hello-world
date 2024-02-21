@@ -83,3 +83,22 @@ Gantilah teks pada bagian atas dengan Nama - NIM Anda. Contoh seperti gambar ber
 *Penjelasan* :
 pada hasil tersebut terjadi perubahan di karenakan telah melakukan modifikasi pada kodingan di file page.tsx jadi teksnya berubah menjadi nama dan Nim ketika di jalankan dan tidak perlu kita npm run dev lagi di browser sendiri akan tampil teks mana yang kita ubah tingga kita refresh browsernya.
 
+**Tugas**
+- Remix
+
+  ![tes](img/Remix_Image1.png)
+  ![tes](img/Remix_Image2.png)
+  ![tes](img/hasil%20output_Remix.png)
+
+- Gatsby
+  ![tes](img/gatsby_Image1.png)
+  ![tes](img/gatsby_Image2.png)
+  ![tes](img/hasil%20output_gatsby.png)
+
+  **perbedaan diantara ketiga framework tersebut (termasuk Next.js)**
+
+  - Next.js Homepage ini menonjolkan fitur-fitur utama framework seperti server-side rendering, static site generation, dan routing dande ngan basis pengguna yang besar, dokumentasi yang luas, dan dukungan komunitas yang kuat menjadi solusi yang dapat diandalkan untuk berbagai kasus penggunaan, cocok untuk proyek-proyek dengan skala besar dan kompleks.
+  - Remix Framework kurang lebih seperti next.js proses pengistalannya dan juga saat menjalankanya.remis memiliki tampilan yang cukup sederhana atau masih tahap pengembangan.
+  - gatsby tampilannya cukup menarik kayak next.js gatsby ini lebih membuat situs statis yang cukup cepat dan ringan. dan perbedaannya gatsby ini tidak bisa menggunakan dev tapi harusnya menggunakan npm run develop 
+  
+
