@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+NAMA : Trisinus Gulo
 
-## Getting Started
+Kelas : TI-3C
 
-First, run the development server:
+Absen : 14
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Praktikum 2 : PBL
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Praktikum 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Langkah 1 : 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Buat Folder Baru
+Buatlah folder baru bernama belajar-react lalu di dalam folder tersebut, jalankan terminal dengan mengetikkan perintah berikut:
 
-## Learn More
+![tes](img/image1.png)
 
-To learn more about Next.js, take a look at the following resources:
+Langkah 2: 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Buat project baru
+Buatlah project baru bernama hello-world seperti pada gambar berikut ini:
+![tes](img/image2_.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Soal 1
 
-## Deploy on Vercel
+Pada gambar tersebut, silakan Anda browsing apa yang dimaksud dengan:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- TypeScript adalah bahasa pemrograman open-source yang merupakan superset dari JavaScript. Ini berarti bahwa setiap kode JavaScript valid juga valid dalam TypeScript, tetapi TypeScript menambahkan tipe statis dan beberapa fitur lainnya untuk membantu pengembangan perangkat lunak dalam skala besar.
+- ESLint adalah ESLint adalah utilitas analisis statik untuk mengidentifikasi dan memperbaiki pola kode yang tidak konsisten atau tidak diinginkan dalam JavaScript. Ini membantu dalam menjaga kualitas kode dan memastikan keseragaman dalam proyek.
+- Tailwind CSS adalah kerangka kerja CSS yang sangat dapat disesuaikan yang memungkinkan pengembang untuk mendesain antarmuka web dengan cepat dengan menggunakan kelas-kelas bawaan yang disediakan oleh Tailwind.
+- App Router adalah biasanya merujuk pada sebuah library atau modul dalam sebuah aplikasi web yang bertanggung jawab untuk menangani routing, atau penentuan bagaimana aplikasi harus menanggapi permintaan untuk URL tertentu. Router ini memungkinkan navigasi antara berbagai bagian dari aplikasi web tanpa harus memuat ulang halaman secara keseluruhan.
+- Import alias adalah cara untuk memberikan nama yang lebih singkat atau lebih deskriptif untuk modul yang diimpor dalam kode JavaScript atau TypeScript. Ini membantu dalam meningkatkan keterbacaan kode dan mengurangi penulisan kode berulang.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Langkah 3: Buka dengan VS Code
+
+Setelah selesai proses langkah sebelumnya, ketik per baris di terminal seperti berikut untuk masuk ke folder project dan dibuka dengan VS Code.
+
+![tes](img/image3_.png)
+
+Soal 2
+
+Pada struktur project tersebut, jelaskan kegunaan folder dan file masing-masing tersebut!
+
+Jawaban:
+
+Folder :
+
+- node_modules: Folder ini berisi modul-modul Node.js yang digunakan oleh project. Modul-modul ini diinstal dengan menggunakan package manager seperti npm atau Yarn.
+- public: Folder ini berisi file-file statis yang akan disajikan kepada pengguna, seperti gambar, CSS, dan JavaScript.
+- app: Folder ini berisi kode sumber project.
+
+File :
+
+- .eslintrc.json: File ini berisi konfigurasi untuk ESLint, sebuah alat yang membantu untuk memastikan kode JavaScript mengikuti standar gaya yang ditentukan.
+- .gitignore: File ini berisi daftar file yang tidak ingin dikomit ke Git.
+- next.config.mjs: File ini berisi konfigurasi untuk Next.js, sebuah framework JavaScript untuk membangun aplikasi web statis dan server-side rendered.
+- next-env.d.ts: File ini berisi deklarasi tipe untuk variabel lingkungan yang digunakan oleh Next.js.
+- package.json: File ini berisi informasi tentang project, seperti nama, versi, dan dependensi.
+- package-lock.json: File ini berisi daftar modul Node.js yang diinstal dalam project, beserta versi dan checksumnya.
+- postcss.config.js: File ini berisi konfigurasi untuk PostCSS, sebuah alat untuk memproses dan mentransformasi CSS.
+- README.md: File ini berisi README project, yang menjelaskan tentang project dan cara menggunakannya.
+- tailwind.config.ts: File ini berisi konfigurasi untuk Tailwind CSS, sebuah framework CSS yang membantu untuk membangun user interface yang modern.
+- tsconfig.json: File ini berisi konfigurasi untuk TypeScript, sebuah superset dari JavaScript yang menambahkan fitur-fitur seperti tipe statis.
+
+
+
+Langkah 4: Run
+
+Sekarang kita coba running project pertama kita dengan menjalankan perintah berikut di terminal VS Code.npm run dev
+Tunggu proses kompilasi hingga selesai. Lalu Anda dapat membuka alamat localhost di browser: http://localhost:3000/
+
+![tes](img/image5.png)
+
+**Hasil Output**
+![tes](img/Hasil%20Akhir.png)
+
+Soal 3
+
+Gantilah teks pada bagian atas dengan Nama - NIM Anda. Contoh seperti gambar berikut:
+
+![tes](img/Hasil%20Perubahan.png)
+
