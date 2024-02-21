@@ -4,7 +4,7 @@ Kelas : TI-3C
 
 Absen : 14
 
-Praktikum 2 : PBL
+Praktikum 2 : PBF
 
 # Praktikum 
 
@@ -79,4 +79,7 @@ Soal 3
 Gantilah teks pada bagian atas dengan Nama - NIM Anda. Contoh seperti gambar berikut:
 
 ![tes](img/Hasil%20Perubahan.png)
+
+*Penjelasan* :
+pada hasil tersebut terjadi perubahan di karenakan telah melakukan modifikasi pada kodingan di file page.tsx jadi teksnya berubah menjadi nama dan Nim ketika di jalankan dan tidak perlu kita npm run dev lagi di browser sendiri akan tampil teks mana yang kita ubah tingga kita refresh browsernya.
 
